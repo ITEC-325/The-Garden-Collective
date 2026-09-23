@@ -13,8 +13,6 @@ header {
     top: 0;
     left: 0;
     z-index: 999;
-    /* width: 100%; */
-    /* background-color: #4a7c59; */
     background-color: #f5e9d4;
     color: #333;
     display: flex;
@@ -231,6 +229,8 @@ body {
     gap: 25px;
 }
 
+/* -===================================================- */
+/* ============== Galler Images Sources ==============*/
 /*  FLORAL COLLECTION
 Photo by <a href="https://unsplash.com/@max_williams?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Max Williams</a> on <a href="https://unsplash.com/photos/variety-of-flowers-bouquet-jeq-mz11xAY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> */
 
@@ -330,8 +330,6 @@ form label, .info-item strong {
     margin-bottom: 20px;
 }
 
-/* .info-item strong {
-} */
 
 .info-item p {
     margin-top: 0;
